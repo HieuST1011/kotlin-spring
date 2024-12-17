@@ -1,0 +1,9 @@
+Yesterday:
+- Research about Kotlin: inline function, extension function, sealed,...
+
+Today:
+- Setup Backend code (kotlin)
+- Research about Mail list
+
+Issues:
+- Java, Gradle, Setup on Windows/MacOS
